@@ -1,4 +1,5 @@
 Retail Sales Data Engineering Pipeline
+
 Python • Pandas • PostgreSQL • SQLAlchemy • Streamlit • Dimensional Modelling
 
 This project demonstrates a complete end-to-end data engineering workflow, from raw data ingestion to analytics dashboard, using a dimensional data warehouse.
