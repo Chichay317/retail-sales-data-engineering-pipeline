@@ -2,8 +2,6 @@ Retail Sales Data Engineering Pipeline
 
 Python • Pandas • PostgreSQL • SQLAlchemy • Streamlit • Dimensional Modelling
 
-This project demonstrates a complete end-to-end data engineering workflow, from raw data ingestion to analytics dashboard, using a dimensional data warehouse.
-
 Project Architecture
 
 ETL Pipeline
@@ -27,16 +25,6 @@ Analytics & Dashboard: Streamlit dashboard with:
 (d) Revenue by customer segment
 
 (e) Filters (Year, Country, Customer Segment)
-
-
-What This Project Demonstrates
-(a) ETL engineering
-
-(b) Data modelling (star schema)
-
-(c) SQL analytics
-
-(d) Building a PostgreSQL warehouse
 
 (e) Python automation with Pandas + SQLAlchemy
 
