@@ -44,10 +44,3 @@ What This Project Demonstrates
 
 (g) Parameterised SQL + dynamic filtering
 
-
-Future Improvements:
-(a) Airflow orchestration
-
-(b) Docker containerisation
-
-(c) Cloud deployment (Streamlit Cloud + Neon/Postgres)
